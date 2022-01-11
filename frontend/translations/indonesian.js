@@ -1,7 +1,7 @@
 const data = {
   'Selected': 'Terpilih: {0} of {1}',
   'Uploading files': 'Mengunggah {0}% of {1}',
-  'File size error': '{0} terlalu besar, harap unggah file lebih kecil dari {1}',
+  'File size error': '{0} file terlalu besar, harap unggah file lebih kecil dari {1}',
   'Upload failed': '{0} gagal diunggah',
   'Per page': '{0} Per Halaman',
   'Folder': 'Berkas',
@@ -54,7 +54,7 @@ const data = {
   'Write': 'Tulis',
   'Upload': 'Unggah',
   'Permissions': 'Izin',
-  'Homedir': 'Direktori Rumah',
+  'Homedir': 'Beranda direktori',
   'Leave blank for no change': 'Biarkan kosong tanpa perubahan',
   'Are you sure you want to do this?': 'Anda yakin ingin melakukan ini?',
   'Are you sure you want to allow access to everyone?': 'Apakah anda yakin ingin mengizinkan akses ke semua orang?',
